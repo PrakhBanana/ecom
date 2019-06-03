@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+akademia_sns
+bin
+demion
+/static
+.DS_Store
